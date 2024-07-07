@@ -1,0 +1,1 @@
+# Plant-Disease-Prediction-model-using-CNN
